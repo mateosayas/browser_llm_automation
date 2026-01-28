@@ -6,8 +6,11 @@ This project is an automated browser assistant that uses **Puppeteer** for brows
 
 - **Automated Navigation**: Navigates to specified URLs using Puppeteer.
 - **Intelligent Selector Extraction**: Uses an LLM to find CSS selectors for specific actions (e.g., "Login", "Sign Up") by analyzing the page content.
-- **Robustness**: Handles multiple languages and dynamic content.
 - **Action Execution**: Automatically clicks the identified elements.
+
+### Future implementations
+
+- **Usage of tools**: using tools to provide the LLM the ability to decide which tools to use and when.
 
 ## Prerequisites
 
