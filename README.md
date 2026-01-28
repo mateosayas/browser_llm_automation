@@ -58,3 +58,4 @@ This will:
 - **`src/index.ts`**: Entry point of the application.
 - **`src/browser.ts`**: Puppeteer wrapper functions for navigation and interaction.
 - **`src/llm.ts`**: OpenAI integration for analyzing HTML and extracting selectors.
+# browser_llm_automation
